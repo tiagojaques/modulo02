@@ -36,6 +36,8 @@
 - [Socket.io](https://socket.io/) - Sockets
 - [ReactJs](https://reactjs.org/) - Web
 - [React Native](https://facebook.github.io/react-native/) - Mobile
+- [Docker]
+- [Sequelize]
 
 ## ✍️ Authors <a name = "authors"></a>
 
